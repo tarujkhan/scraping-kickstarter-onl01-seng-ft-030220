@@ -12,10 +12,10 @@ end
 create_project_hash
 
 #kickstarter.css("li.project.grid_4").first
-this is for the first line 
+#this is for the first line 
 
 # title: project.css("h2.bbcard_name strong a").text
-this is for title 
+#this is for title 
 
 
 
