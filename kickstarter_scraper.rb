@@ -26,3 +26,5 @@ create_project_hash
 #project.css("ul.project-stats li.first.funded strong").text
 #this is for the percentage
 
+#project.css("ul.project-meta span.location-name").text
+this is for location
