@@ -12,3 +12,4 @@ end
 create_project_hash
 
 #kickstarter.css("li.project.grid_4").first
+this is for the first link_to_remote
