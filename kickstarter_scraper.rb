@@ -23,6 +23,7 @@ projects = {}
   projects
 end
 end
+end 
 
 #create_project_hash
 
