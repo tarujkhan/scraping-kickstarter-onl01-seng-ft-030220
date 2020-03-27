@@ -27,4 +27,4 @@ create_project_hash
 #this is for the percentage
 
 #project.css("ul.project-meta span.location-name").text
-this is for location
+#this is for location
