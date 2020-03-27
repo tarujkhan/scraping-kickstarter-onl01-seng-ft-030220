@@ -22,9 +22,7 @@ projects = {}
   # return the projects hash
   projects
 end
-end
-end 
-end 
+
 
 #create_project_hash
 
