@@ -20,6 +20,7 @@ create_project_hash
 #project.css("div.project-thumbnail a img").attribute("src").value
 #this is for the thumbnail
 
-
+# project.css("p.bbcard_blurb").text
+# this is for the description
 
 
