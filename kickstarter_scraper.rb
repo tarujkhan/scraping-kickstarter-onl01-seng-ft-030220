@@ -23,5 +23,6 @@ create_project_hash
 # project.css("p.bbcard_blurb").text
 # this is for the description
 
-
+#project.css("ul.project-stats li.first.funded strong").text
+#this is for the percentage
 
