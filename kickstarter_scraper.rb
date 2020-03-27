@@ -24,7 +24,7 @@ create_project_hash
 # this is for the description
 
 #project.css("ul.project-stats li.first.funded strong").text.gsub("%","").to_i
-#this is for the percentage
+#this is for the percentage and to convert it into an integer
 
 #project.css("ul.project-meta span.location-name").text
 #this is for location
